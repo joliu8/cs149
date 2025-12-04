@@ -1,0 +1,16 @@
+  998  brew install swi-prolog --HWAD
+  999  brew install swi-prolog --HEAD
+ 1000  swipl
+ 1001  pwd
+ 1002  cd ~
+ 1003  cd Desktop/
+ 1004  ls -latr ; mkdir cs149 ; cd cs149
+ 1005  git init
+ 1006  git remote add origin https://github.com/joliu8/cs149.git
+ 1007  git config --global user.email "joliu2023@gmail.com"
+ 1008  git config --global user.name "Joyce"
+ 1009  mkdir WS_bonus
+ 1010  cd WS_bonus
+ 1011  git add .
+ 1012  wget -O out.pdf https://tinyurl.com/yy94jltt
+ 1013  ls -latr
